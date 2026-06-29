@@ -1,0 +1,7 @@
+# Node / IDE files
+node_modules/
+.env
+.gemini/
+.agents/
+.DS_Store
+Thumbs.db
