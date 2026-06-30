@@ -1,22 +1,88 @@
-## Description
+# Pull Request
 
-Please include a summary of the change and which issue is fixed. Please also include relevant motivation and context.
+## Summary
+
+Provide a clear and concise description of the changes introduced by this Pull Request.
+
+---
+
+## Related Issue
+
+Closes #
+
+Related to #
+
+---
 
 ## Type of Change
 
-- [ ] Bug fix (non-breaking change which fixes an issue)
-- [ ] New feature (non-breaking change which adds functionality)
-- [ ] Breaking change (fix or feature that would cause existing functionality to not work as expected)
-- [ ] Documentation update
+- [ ] Feature
+- [ ] Bug Fix
+- [ ] Refactor
+- [ ] Documentation
+- [ ] Performance Improvement
+- [ ] Security Improvement
+- [ ] Tests
+- [ ] Build / CI
+- [ ] Other
 
-## How Has This Been Tested?
+---
 
-Please describe the tests that you ran to verify your changes.
+## What Changed
+
+Describe the implementation.
+
+Include important architectural or design decisions where applicable.
+
+---
+
+## Testing
+
+Describe how the changes were verified.
+
+Examples:
+
+- Unit Tests
+- Integration Tests
+- Manual Testing
+- E2E Tests
+
+---
+
+## Screenshots
+
+If applicable, attach screenshots or recordings.
+
+---
+
+## Breaking Changes
+
+- [ ] No
+
+If yes, describe the impact.
+
+---
+
+## Documentation
+
+- [ ] Documentation updated
+- [ ] No documentation changes required
+
+---
 
 ## Checklist
 
-- [ ] My code follows the style guidelines of this project
-- [ ] I have performed a self-review of my own code
-- [ ] I have commented my code, particularly in hard-to-understand areas
-- [ ] I have made corresponding changes to the documentation
-- [ ] My changes generate no new warnings
+- [ ] Code follows repository standards
+- [ ] Tests pass
+- [ ] Documentation updated
+- [ ] No secrets committed
+- [ ] No unnecessary dependencies added
+- [ ] Performance considered
+- [ ] Security reviewed
+- [ ] Ready for review
+
+---
+
+## Additional Notes
+
+Add any additional context for reviewers.
